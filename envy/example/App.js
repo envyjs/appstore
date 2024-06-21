@@ -1,6 +1,4 @@
-import Html from "../../libs/html.js";
-import TwinBox from "../../libs/twinbox.js";
-import css from "../../libs/css.js";
+const Html = window.Html, TwinBox = window.TwinBox, css = window.css;
 
 let appName = "Example App",
   appIcon = "assets/apps/help/favicon.webp",
