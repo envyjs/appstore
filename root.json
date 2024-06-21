@@ -1,1 +1,6 @@
-["envy/example"]
+[{"name":"Example",
+  "shortDescription":"Envy example app",
+  "description":"Test of the looonggg description",
+  "author":"Envy group",
+  "category":"Testing",
+  "id":"envy/example"}]
