@@ -13,10 +13,4 @@
   "category":"Entertain",
   "id":"envy/media"}
 ,
-  {"name":"bClock",
-  "shortDescription":"Basic clock app.",
-  "description":"Test of the looonggg description",
-  "author":"eulogy",
-  "category":"Entertain",
-  "id":"eulogy/bclock"}
 ]
