@@ -1,6 +1,15 @@
-[{"name":"Example",
+[
+  {"name":"Example",
   "shortDescription":"Envy example app",
   "description":"Test of the looonggg description",
-  "author":"Envy group",
+  "author":"Envy Global",
   "category":"Testing",
-  "id":"envy/example"}]
+  "id":"envy/example"}
+,
+  {"name":"Media (BETA)",
+  "shortDescription":"Envy Media Player",
+  "description":"Test of the looonggg description",
+  "author":"Envy Global",
+  "category":"Entertain",
+  "id":"envy/media"}
+]
