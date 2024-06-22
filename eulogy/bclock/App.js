@@ -17,7 +17,7 @@ const pkg = {
       title: appName,
       icon: appIcon,
       width: "400px",
-      height: "365px",
+      height: "400px",
       mica: true,
       padding: true,
       style:  css`
@@ -31,8 +31,8 @@ const pkg = {
     const wrapper = wb.body;
 
     // Add content to the window
-    new Html("div").style({position: "absolute", "top", "0", "left", "0",}).appendMany(
-	new Html("iframe).attr({src: "./index.html"})
+    new Html("div").style({position: "absolute", "top": "0", "left": "0",}).appendMany(
+	new Html("iframe").attr({src: "./index.html"}),
 ).appendTo(wrapper);
   },
   end: async function () {
