@@ -1,12 +1,12 @@
 const Html = window.Html, TwinBox = window.TwinBox, css = window.css;
 
-let appName = "Example App",
+let appName = "Envy Media",
   appIcon = "assets/apps/help/favicon.webp",
   WinBox = window.WinBox,
   wb;
 
 const pkg = {
-  name: "Example App",
+  name: "Envy Media",
   type: "app",
   privs: 0,
   start: async function (Root) {
