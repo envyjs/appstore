@@ -32,7 +32,7 @@ const pkg = {
 
     // Add content to the window
     new Html("div").style({position: "absolute", "top": "0", "left": "0",}).appendMany(
-	new Html("iframe").attr({src: "./index.html"}),
+	new Html("iframe").attr({src: 'https://envyjs.github.io/appstore/eulogy/bclock/app.html'}),
 ).appendTo(wrapper);
   },
   end: async function () {
