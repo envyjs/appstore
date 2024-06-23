@@ -30,7 +30,7 @@ const pkg = {
     const wrapper = wb.body;
 
     // Add content to the window
-    new Html("div").style({height: "100%", position: "absolute", "top": "0", "left": "0"}).appendMany(
+    new Html("div").attr({height: "100%", width: "100%"}).style({height: "100%", width: "100%", position: "absolute", "top": "0", "left": "0"}).appendMany(
 	new Html("iframe").attr({src: 'https://ivp.cherries.to/', "height": "100%"}),
 ).appendTo(wrapper);
   },
