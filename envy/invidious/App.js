@@ -30,8 +30,8 @@ const pkg = {
     const wrapper = wb.body;
 
     // Add content to the window
-    new Html("div").style({position: "absolute", "top": "0", "left": "0",}).appendMany(
-	new Html("iframe").attr({src: 'https://ivp.cherries.to/'}),
+    new Html("div").style({position: "absolute", "top": "0", "left": "0", "width": "100%", "height": "100%"}).appendMany(
+	new Html("iframe").attr({src: 'https://ivp.cherries.to/', "width": "100%", "height": "100%"}),
 ).appendTo(wrapper);
   },
   end: async function () {
