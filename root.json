@@ -6,6 +6,14 @@
   "category":"Developer tools",
   "id":"envy/example"}
 ,
+  
+  {"name":"Invidious",
+  "shortDescription":"Invidious client",
+  "description":"Test of the looonggg description",
+  "author":"cherries.to",
+  "category":"Entertainment",
+  "id":"envy/invidious"}
+,
   {"name":"Media (BETA)",
   "shortDescription":"Envy Media Player",
   "description":"Test of the looonggg description",
