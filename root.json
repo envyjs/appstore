@@ -3,13 +3,13 @@
   "shortDescription":"Envy example app",
   "description":"Test of the looonggg description",
   "author":"Envy Global",
-  "category":"Testing",
+  "category":"Developer tools",
   "id":"envy/example"}
 ,
   {"name":"Media (BETA)",
   "shortDescription":"Envy Media Player",
   "description":"Test of the looonggg description",
   "author":"Envy Global",
-  "category":"Entertain",
+  "category":"Entertainment",
   "id":"envy/media"}
 ]
