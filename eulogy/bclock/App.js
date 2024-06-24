@@ -1,6 +1,6 @@
 const Html = window.Html, TwinBox = window.TwinBox, css = window.css;
 
-let appName = "Invidious",
+let appName = "bClock",
   appIcon = "assets/apps/help/favicon.webp",
   WinBox = window.WinBox,
   wb;
