@@ -20,4 +20,11 @@
   "author":"Envy Global",
   "category":"Entertainment",
   "id":"envy/media"}
+,
+  {"name":"WINE (BETA)",
+  "shortDescription":"WINE Subsystem for Envy",
+  "description":"Test of the looonggg description",
+  "author":"Envy Global + WineHQ",
+  "category":"Entertainment",
+  "id":"envy/wine"}
 ]
