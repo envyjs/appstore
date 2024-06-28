@@ -14,6 +14,13 @@
   "category":"Entertainment",
   "id":"mtsyntho/dezunkrr"}
 ,
+  {"name":"EaglercraftX",
+  "shortDescription":"Javascript decompilation of Minecraft",
+  "description":"Test of the looonggg description",
+  "author":"lax1dude",
+  "category":"Developer tools",
+  "id":"eagler/X"}
+,
   {"name":"Example",
   "shortDescription":"Envy example app",
   "description":"Test of the looonggg description",
