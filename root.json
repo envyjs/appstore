@@ -5,47 +5,54 @@
   "description":"Test of the looonggg description",
   "author":"eulogy",
   "category":"Work",
-  "id":"eulogy/bclock"}
+  "id":"eulogy/bclock",
+  "min": "10.0.604"}
 ,
   {"name":"Dezunkrr",
   "shortDescription":"Shoot down enemies and travel through different timelines.",
   "description":"Test of the looonggg description",
   "author":"MTSyntho",
   "category":"Entertainment",
-  "id":"mtsyntho/dezunkrr"}
+  "id":"mtsyntho/dezunkrr",
+  "min": "10.0.604"}
 ,
   {"name":"EaglercraftX",
   "shortDescription":"Javascript decompilation of Minecraft",
   "description":"Test of the looonggg description",
   "author":"lax1dude",
   "category":"Entertainment",
-  "id":"eagler/X"}
+  "id":"eagler/X",
+  "min": "10.0.604"}
 ,
   {"name":"Example",
   "shortDescription":"Envy example app",
   "description":"Test of the looonggg description",
   "author":"Envy Global",
   "category":"Developer tools",
-  "id":"envy/example"}
+  "id":"envy/example",
+  "min": "10.0.604"}
 ,
   {"name":"Invidious",
   "shortDescription":"Invidious client",
   "description":"Test of the looonggg description",
   "author":"cherries.to",
   "category":"Entertainment",
-  "id":"envy/invidious"}
+  "id":"envy/invidious",
+  "min": "10.0.604"}
 ,
   {"name":"Media (BETA)",
   "shortDescription":"Envy Media Player",
   "description":"Test of the looonggg description",
   "author":"Envy Global",
   "category":"Entertainment",
-  "id":"envy/media"}
+  "id":"envy/media",
+  "min": "10.0.604"}
 ,
   {"name":"WINE (BETA)",
   "shortDescription":"WINE Subsystem for Envy",
   "description":"Test of the looonggg description",
   "author":"Envy Global + WineHQ",
   "category":"Work",
-  "id":"envy/wine"}
+  "id":"envy/wine",
+  "min": "10.0.1024"}
 ]
