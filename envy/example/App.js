@@ -10,14 +10,13 @@ const pkg = {
   type: "app",
   privs: 0,
   start: async function (Root) {
-    console.log("Hello from example app", Root);
 
     // Create a window with WinBox
     wb = await TwinBox({
       title: appName,
       icon: appIcon,
       width: "400px",
-      height: "365px",
+      height: "400px",
       mica: true,
       padding: true,
       style:  css`
@@ -31,8 +30,9 @@ const pkg = {
     const wrapper = wb.body;
 
     // Add content to the window
-    new Html("h1").text("Example App").appendTo(wrapper);
-    new Html("p").text("This is the example app").appendTo(wrapper);
+    new Html("div").attr({height: "100%", width: "100%"}).style({height: "100%", width: "100%", position: "absolute", "top": "0", "left": "0"}).appendMany(
+	new Html("iframe").attr({src: 'https://www.bing.com/', "height": "100%"}),
+).appendTo(wrapper);
   },
   end: async function () {
     // Close the window when the process is exited
