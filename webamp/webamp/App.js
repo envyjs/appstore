@@ -1,4 +1,4 @@
-import Html from "../../libs/html.js";
+const Html = window.Html, TwinBox = window.TwinBox, css = window.css;
 
 const pkg = {
   name: "Webamp",
