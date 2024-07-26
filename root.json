@@ -48,6 +48,14 @@
   "id":"envy/media",
   "min": "10.0.604"}
 ,
+  {"name":"Webamp",
+  "shortDescription":"A reimplementation of Winamp 2.9 in HTML5 and JavaScript.",
+  "description":"Test of the looonggg description",
+  "author":"captbaritone",
+  "category":"Entertainment",
+  "id":"webamp/webamp",
+  "min": "10.0.1024"}
+,
   {"name":"WINE (BETA)",
   "shortDescription":"WINE Subsystem for Envy",
   "description":"Test of the looonggg description",
