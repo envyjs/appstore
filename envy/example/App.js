@@ -19,11 +19,6 @@ const pkg = {
       height: "400px",
       mica: true,
       padding: true,
-      style:  css`
-      .wb-body {
-        color: red;
-      }
-      `
     });
 
     // Get the window body
